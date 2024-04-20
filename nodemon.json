@@ -1,0 +1,7 @@
+{
+    "execMap": {
+        "ts": "ts-node -r tsconfig-paths/register -r dotenv/config"
+    },
+    "ignore": ["node_modules"],
+    "verbose": true
+}
